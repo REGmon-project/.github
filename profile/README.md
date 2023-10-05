@@ -6,7 +6,7 @@
 
 <hr>
 <p align="center">
-	REGmon Open Source Repository
+	REGmon Open Source Repository<br>
 	https://github.com/REGmon-project/regmon
 </p>
 <hr>
