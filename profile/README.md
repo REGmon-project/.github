@@ -12,7 +12,7 @@
 <hr>
 <p align="center">
 	REGmon Open Source Documentation<br>
-	https://github.com/REGmon-project/regmon
+	https://regmon-project.github.io/
 </p>
 <hr>
 
