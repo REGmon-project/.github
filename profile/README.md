@@ -10,6 +10,11 @@
 	https://github.com/REGmon-project/regmon
 </p>
 <hr>
+<p align="center">
+	REGmon Open Source Documentation<br>
+	https://github.com/REGmon-project/regmon
+</p>
+<hr>
 
 # Introduction
 REGmon is a powerful web-based open-source application designed to empower athletes, coaches and other staff to easily collect, analyze and visualize data. Individual athlete monitoring approaches covering the daily training process can be implemented by using customizable forms, dashboards, analysis templates and user-friendly graphical feedback. Furthermore, REGmon can also be used by researchers to enable efficient and GDPR compliant data management in various scenarios and projects.
