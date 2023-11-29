@@ -6,6 +6,11 @@
 
 <hr>
 <p align="center">
+	Preprint: "REGmon: A web application for athlete monitoring in sport practice and research" <br>
+	https://sportrxiv.org/index.php/server/preprint/view/342
+</p>
+<hr>
+<p align="center">
 	REGmon Open Source Repository<br>
 	https://github.com/REGmon-project/regmon
 </p>
