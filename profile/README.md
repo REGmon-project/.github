@@ -3,7 +3,11 @@
 		<img src="https://github.com/REGmon-project/regmon/blob/main/img/regmon-logo-transparent.png" alt="REGmon logo" width="65%"/>
 	</p>
 </picture>
-
+<hr>
+<p align="center">
+	Landing Page<br>
+	https://regmon-project.org
+</p>
 <hr>
 <p align="center">
 	Preprint: "REGmon: A web application for athlete monitoring in sport practice and research" <br>
